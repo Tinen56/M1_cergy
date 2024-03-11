@@ -29,9 +29,15 @@ a:hover {
 
 /* Photo */
 .picture {
-    background-image: url('C:\Users\narus\Desktop\goku.jpg');
+    width: 120px;
+    height: 120px;
     padding-bottom: 12%;
     padding-left: 10%;
+}
+
+.picture img {
+    width: 170px;
+    height: 170px;
 }
 
 /* Nom prénom profession */
@@ -49,7 +55,6 @@ a:hover {
     font-size: 21px;
     color: white;
     padding-top: 10%;
-    text-shadow: 1px 1px #72f0f5;
 }
 
 .aboutme {
@@ -62,12 +67,11 @@ a:hover {
 
     font-size: 21px;
     color: white;
-    text-shadow: 1px 1px #72f0f5;
 }
 
 .location {
     font-size: 13px;
-    color: white;
+    color: #ceab5d;
 }
 
 .hobbies {
