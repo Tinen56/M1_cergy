@@ -12,7 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Montserrat', sans-serif;
-    background-color: #a4b5ff;
+    background-color: #004170;
     color: white;
 }
 
@@ -42,8 +42,8 @@ a {
 /* Profil */
 .text {
     justify-content: center;
-    background-color: #90a4ff;
-    box-shadow: 10px 10px #5272fd;
+    background-color: #da291c;
+    box-shadow: 10px 10px #ceab5d;
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
@@ -56,8 +56,8 @@ a {
 
 /* Compétences */
 .skill {
-    background-color: #90a4ff;
-    box-shadow: 10px 10px #5272fd;
+    background-color: #da291c;
+    box-shadow: 10px 10px #ceab5d;
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
@@ -87,18 +87,18 @@ a {
 }
 
 .html-css {
-    width: 70%;
-    background-color: #4CAF50;
+    width: 60%;
+    background-color: #ffffff;
 }
 
 .java {
     width: 65%;
-    background-color: #2196F3;
+    background-color: #ffffff;
 }
 
 .python {
     width: 60%;
-    background-color: #f44336;
+    background-color: #ffffff;
 }
 
 /* Bouton CV et Contact */
